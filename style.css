@@ -30,6 +30,9 @@ h2{
 .half-width img{
     width:70%;
 }
+.half-width .mid-image{
+    width:95%;
+}
 .link-button{
     text-decoration:none;
     color:rgb(238, 12, 144);
